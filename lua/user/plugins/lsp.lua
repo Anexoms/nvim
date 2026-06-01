@@ -25,6 +25,7 @@ return
                 "bashls",
                 "clangd",
                 "pyright",
+                "pylsp",
                 "hls",
                 "rust_analyzer",
                 "ts_ls",
